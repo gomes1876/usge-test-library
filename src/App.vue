@@ -10,7 +10,7 @@
 
 <script>
 // import HelloWorld from './components/HelloWorld.vue'
-import tButton from 'test-lib-components';
+import tButton from 'test-lib-components/src/components/t-button.vue';
 
 export default {
   name: 'App',

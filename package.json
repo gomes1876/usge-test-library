@@ -11,7 +11,7 @@
     "core-js": "^3.8.3",
     "vue": "^2.6.14",
     "node-sass": "^8.0.0",
-    "test-lib-components": "git://github.com/gomes1876/test-lib-components.git#master"
+    "test-lib-components": "git://github.com/gomes1876/test-lib-components.git#main"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
