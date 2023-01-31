@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
+    <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
     <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
     <tButton type="contained" size="xl">
       <span>E. Large</span>
@@ -10,7 +10,7 @@
 
 <script>
 // import HelloWorld from './components/HelloWorld.vue'
-import tButton from 'test-lib-components/src/components/t-button.vue';
+import { tButton } from 'test-lib-components';
 
 export default {
   name: 'App',
